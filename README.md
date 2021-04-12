@@ -4,7 +4,7 @@
 <p align="center">
       <a href="https://www.python.org/">
         <img src="https://img.shields.io/badge/Python-3.6-ff69b4.svg" /></a>
-       <a href= "https://github.com/oggyfaker/Duplicate-Image-Hashing/blob/master/LICENSE.md">
+       <a href= "https://github.com/oggyfaker/Duplicate-Image-Hashing/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/License-MIT-red.svg" /></a>
 </p>
 
