@@ -4,8 +4,8 @@
 <p align="center">
       <a href="https://www.python.org/">
         <img src="https://img.shields.io/badge/Python-3.6-ff69b4.svg" /></a>
-       <a href= "https://github.com/AntixK/PyTorch-VAE/blob/master/LICENSE.md">
-        <img src="https://img.shields.io/badge/license-Apache2.0-blue.svg" /></a>
+       <a href= "https://github.com/oggyfaker/Duplicate-Image-Hashing/blob/master/LICENSE.md">
+        <img src="https://img.shields.io/badge/License-MIT-red.svg" /></a>
 </p>
 
 The tool for computing same images and get pair images by hashing 
